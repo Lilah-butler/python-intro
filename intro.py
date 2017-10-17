@@ -1,3 +1,4 @@
+
 # Welcome! This is a Python program file
 
 # The lines that start with a hash (#) are comments
@@ -21,6 +22,7 @@ message = "Level Two"
 
 # Add a line below to print this variable
 
+print(message)
 # GO!
 
 # 3. The variable above is called a string
